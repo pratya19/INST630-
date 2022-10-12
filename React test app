@@ -1,4 +1,4 @@
 $ npx create-react-app test-app
 $ cd test-app
 $ npm install gh-pages --save-dev
-
+$ vi package.json
