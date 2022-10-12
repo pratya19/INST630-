@@ -1,1 +1,2 @@
 $ npx create-react-app test-app
+$ cd test-app
